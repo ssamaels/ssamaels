@@ -6,7 +6,7 @@
 </div>
 <div>
   
-![about1](https://github.com/ssamaels/ssamaels/assets/133221940/3d56ba28-346f-4270-823d-3933be1d1e25)  ![about2](https://github.com/ssamaels/ssamaels/assets/133221940/0ae3ed68-b32e-40da-911e-d64a3836b854)
+![about1](https://github.com/ssamaels/ssamaels/assets/133221940/a4ea14fa-1789-46eb-ad2b-8d648757b431) ![about2](https://github.com/ssamaels/ssamaels/assets/133221940/baa995cf-273c-4f00-999e-ff556c094088)
 
 </div>
 
