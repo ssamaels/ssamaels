@@ -1,7 +1,7 @@
 <h1 align="center">Hello!🐱</h1>
 <div align="center">
 <div>
-  <p>I am Samael, full stack developer based in Berlin.</p>
+  <p>I am Samael, frontend developer with knowlege in backend, based in Berlin.</p>
   <p>Here is a little bit about me:</p>
 </div>
 <div>
@@ -13,7 +13,7 @@
 <h3>Languages, frameworks and apps I can work with:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,nextjs,ps,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,nextjs,vscode,ps" />
   </a>
 </p>
 </div>
