@@ -1,7 +1,7 @@
 <h1 align="center">Hello!🐱</h1>
 <div align="center">
 <div>
-  <p>I am Samael, frontend developer with knowlege in backend, based in Berlin.</p>
+  <p>I am Samael, Full Stack Developer, based in Berlin.</p>
   <p>Here is a little bit about me:</p>
 </div>
 <div>
